@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Producto 1",
+      "price": 150,
+      "description": "Test producto desde k6",
+      "categoryId": 1,
+      "images": ["https://placeimg.com/640/480/any"]
+    },
+    {
+      "title": "Producto 2",
+      "price": 300,
+      "description": "Otro test",
+      "categoryId": 2,
+      "images": ["https://placeimg.com/640/480/any"]
+    }
+  ]
+  
